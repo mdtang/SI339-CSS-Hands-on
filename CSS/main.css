@@ -1,0 +1,19 @@
+body {
+  background: lightgreen;
+  padding: 0;
+  height: 100vh;
+}
+
+h1 {
+  font-family: "Open Sans", Calibri, sans-serif;
+  margin: 0;
+  text-align: center;
+  line-height: 100vh;
+  font-size: 2em;
+}
+
+.title {}
+
+.title:hover {
+  transform: scale(1.3)
+}
